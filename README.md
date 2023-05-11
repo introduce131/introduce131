@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://i.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif]" width="100%"/>
+<img src="https://i.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif" width="100%"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=introduce131&show_icons=true&theme=radical)
 
