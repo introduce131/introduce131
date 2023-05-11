@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i1.ruliweb.com/ori/21/04/22/178f79ccbe353a1cc.mp4?gif" width="100%"/>
+<img src="https://images.velog.io/images/eamon3481/post/e5b881fc-8bbb-4ea5-8d66-67628ee34b3e/%EB%AF%B8%EB%8B%88%EC%96%B8%EC%A6%8828.gif" width="100%"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=introduce131&show_icons=true&theme=radical)
 
