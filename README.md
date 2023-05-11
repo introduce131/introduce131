@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://t1.daumcdn.net/cafeattach/mEr9/1c92cd882513898d016c667faeafada441cdaf87" width="100%"/>
+<img src="https://i1.ruliweb.com/ori/21/04/22/178f79ccbe353a1cc.mp4?gif" width="100%"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=introduce131&show_icons=true&theme=radical)
 
